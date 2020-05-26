@@ -1,0 +1,10 @@
+.nav{
+    width: 100%;
+    background-color: lightgrey;
+    height: 80px;
+}
+.logout
+{
+    margin-left: 80%;
+    width: 20%;
+}
